@@ -1,2 +1,2 @@
 # Customer-Segmentation-on-e-commerce-data
-In this e-commerce customer segmentation project, we aim to analyze vast datasets to uncover distinct consumer behaviors and preferences. 
+In this e-commerce customer segmentation project, we aim to analyze vast datasets to uncover distinct consumer behaviors and preferences. By employing advanced analytics techniques, we seek to categorize customers into meaningful segments, enabling targeted marketing strategies and personalized experiences, ultimately enhancing customer satisfaction and business profitability.
